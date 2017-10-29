@@ -69,7 +69,7 @@ public:
         mRenderProg = loadGlslProg(renderFormat);
         mUpdateProg = loadGlslProg(updateFormat);
         
-        gl::VboMeshRef boxMesh = gl::VboMesh::create(geom::Cube().size(vec3(2.0f, 2.0f, 8.0f)).subdivisions(1));
+        gl::VboMeshRef boxMesh = gl::VboMesh::create(geom::Cube().size(vec3(2.0f, 2.0f, 16.0f)).subdivisions(1));
         geom::BufferLayout layout;
         layout.append(geom::CUSTOM_1, 3, sizeof(Particle), offsetof(Particle, position), 1);
         layout.append(geom::CUSTOM_3, 1, sizeof(Particle), offsetof(Particle, age), 1);
