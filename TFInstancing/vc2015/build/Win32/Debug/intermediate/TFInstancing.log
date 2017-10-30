@@ -1,0 +1,10 @@
+﻿  TFInstancingApp.cpp
+c:\users\ryosuke_nakajima\documents\cinder_0.9.2_dev\apps\graphics\tfinstancing\src\tfinstancing.h(24): warning C4018: '<': signed/unsigned mismatch
+c:\users\ryosuke_nakajima\documents\cinder_0.9.2_dev\apps\graphics\tfinstancing\src\tfinstancing.h(88): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\ryosuke_nakajima\documents\cinder_0.9.2_dev\apps\graphics\tfinstancing\src\tfinstancing.h(90): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\ryosuke_nakajima\documents\cinder_0.9.2_dev\apps\graphics\tfinstancing\src\tfinstancingapp.cpp(68): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+c:\users\ryosuke_nakajima\documents\cinder_0.9.2_dev\apps\graphics\tfinstancing\src\tfinstancingapp.cpp(76): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\ryosuke_nakajima\documents\cinder_0.9.2_dev\apps\graphics\tfinstancing\src\tfinstancingapp.cpp(77): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ryosuke_nakajima\documents\cinder_0.9.2_dev\apps\graphics\tfinstancing\src\tfinstancingapp.cpp(78): warning C4305: 'argument': truncation from 'double' to 'float'
+  TFInstancing.vcxproj -> C:\Users\Ryosuke_Nakajima\Documents\cinder_0.9.2_dev\apps\Graphics\TFInstancing\vc2015\build\Win32\Debug\TFInstancing.exe
+  TFInstancing.vcxproj -> C:\Users\Ryosuke_Nakajima\Documents\cinder_0.9.2_dev\apps\Graphics\TFInstancing\vc2015\build\Win32\Debug\TFInstancing.pdb (Full PDB)

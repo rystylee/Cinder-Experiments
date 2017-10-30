@@ -1,0 +1,10 @@
+﻿  TFParticleApp.cpp
+c:\users\ryosuke_nakajima\documents\cinder_0.9.2_dev\apps\graphics\tfparticle\src\tfparticle.h(24): warning C4018: '<': signed/unsigned mismatch
+c:\users\ryosuke_nakajima\documents\cinder_0.9.2_dev\apps\graphics\tfparticle\src\tfparticle.h(76): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\ryosuke_nakajima\documents\cinder_0.9.2_dev\apps\graphics\tfparticle\src\tfparticle.h(78): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\ryosuke_nakajima\documents\cinder_0.9.2_dev\apps\graphics\tfparticle\src\tfparticleapp.cpp(69): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+c:\users\ryosuke_nakajima\documents\cinder_0.9.2_dev\apps\graphics\tfparticle\src\tfparticleapp.cpp(77): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\ryosuke_nakajima\documents\cinder_0.9.2_dev\apps\graphics\tfparticle\src\tfparticleapp.cpp(78): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ryosuke_nakajima\documents\cinder_0.9.2_dev\apps\graphics\tfparticle\src\tfparticleapp.cpp(79): warning C4305: 'argument': truncation from 'double' to 'float'
+  TFParticle.vcxproj -> C:\Users\Ryosuke_Nakajima\Documents\cinder_0.9.2_dev\apps\Graphics\TFParticle\vc2015\build\Win32\Debug\TFParticle.exe
+  TFParticle.vcxproj -> C:\Users\Ryosuke_Nakajima\Documents\cinder_0.9.2_dev\apps\Graphics\TFParticle\vc2015\build\Win32\Debug\TFParticle.pdb (Full PDB)
