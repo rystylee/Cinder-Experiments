@@ -1,0 +1,8 @@
+﻿  CSParticleApp.cpp
+c:\users\ryosuke_nakajima\documents\cinder_0.9.2_dev\apps\graphics\csparticle\src\csparticle.h(27): warning C4018: '<': signed/unsigned mismatch
+c:\users\ryosuke_nakajima\documents\cinder_0.9.2_dev\apps\graphics\csparticle\src\csparticle.h(67): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\ryosuke_nakajima\documents\cinder_0.9.2_dev\apps\graphics\csparticle\src\csparticle.h(69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\ryosuke_nakajima\documents\cinder_0.9.2_dev\apps\graphics\csparticle\src\csparticleapp.cpp(69): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+c:\users\ryosuke_nakajima\documents\cinder_0.9.2_dev\apps\graphics\csparticle\src\csparticleapp.cpp(77): warning C4305: '=': truncation from 'double' to 'float'
+  CSParticle.vcxproj -> C:\Users\Ryosuke_Nakajima\Documents\cinder_0.9.2_dev\apps\Graphics\CSParticle\vc2015\build\Win32\Debug\CSParticle.exe
+  CSParticle.vcxproj -> C:\Users\Ryosuke_Nakajima\Documents\cinder_0.9.2_dev\apps\Graphics\CSParticle\vc2015\build\Win32\Debug\CSParticle.pdb (Full PDB)
