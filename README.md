@@ -7,6 +7,9 @@ a collection of experiments with Cinder. I am using cinder_0.9.2_dev.
 ## HDRBloom
 ![result](https://github.com/rystylee/Cinder-Experiments/blob/master/HDRBloom/screenshot.png)
 
+## PFX
+![result](https://github.com/rystylee/Cinder-Experiments/blob/master/PFX/screenshot.png)
+
 ## TFInstancing
 ![result](https://github.com/rystylee/Cinder-Experiments/blob/master/TFInstancing/screenshot.png)
 
